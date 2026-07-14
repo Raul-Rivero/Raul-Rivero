@@ -39,13 +39,6 @@ I'm a rising senior at UNC Chapel Hill, majoring in Computer Science.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-chi-rouge-27.vercel.app/api?username=Raul-Rivero&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-chi-rouge-27.vercel.app/api/top-langs/?username=Raul-Rivero&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 ### Isometric Commit Calendar
 
 <p align="center">
